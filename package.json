@@ -1,0 +1,21 @@
+{
+  "name": "pai-admin-doc",
+  "version": "1.0.0",
+  "description": "PaiAdmin官方文档",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "PaiAdmin文档"
+  ],
+  "author": "cfn",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "dependencies": {
+    "vuepress-plugin-nprogress": "^1.1.8"
+  }
+}
