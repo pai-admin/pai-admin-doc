@@ -1,7 +1,7 @@
 module.exports = {
     title: 'PaiAdmin',
     description: 'PaiAdmin Doc',
-    base: '/dist/',
+    
     head: [['link', {rel: 'icon', href: '/favicon.png'}]],
     themeConfig: {
         logo: '/logo.png',
